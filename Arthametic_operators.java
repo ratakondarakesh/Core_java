@@ -1,4 +1,4 @@
-public class Arthametic_operations {
+public class Arthametic_operators {
 	public static void main (String[] args) {
 		
 		int a = 50;
